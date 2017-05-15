@@ -11,8 +11,17 @@ li {
   font-size: 18px;
 }
 
-
-
 .cols-img {
-  width: 18%;
+  display: flex;
+  flex-direction: row;
+  width: 20%;
+}
+
+.paragraphs {
+  display: flex;
+  padding: 50px 0 50px 50px;
+}
+
+p {
+  padding: 0 20px;
 }
