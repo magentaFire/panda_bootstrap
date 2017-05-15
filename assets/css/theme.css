@@ -1,0 +1,12 @@
+body {
+  background-color: #ede5e2;
+}
+
+.header-nav {
+  background-color: #61d2d6;
+}
+
+li {
+  padding-left: 20px;
+  font-size: 18px;
+}
