@@ -25,3 +25,14 @@ li {
 p {
   padding: 0 20px;
 }
+
+.btn-cerrar {
+  position: relative;
+  left: -180px;
+  color: #ddd;
+  font-size: 23px;
+}
+
+img {
+  filter: grayscale();
+}
